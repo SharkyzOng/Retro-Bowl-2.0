@@ -2,22 +2,22 @@ tag	description	achieved
 ACH_PASS	Make a pass	0
 ACH_PLAYGAME1	Play a game	0
 ACH_TOUCHDOWN1	Score a touchdown	0
-ACH_TOUCHDOWN3	Score 3 touchdowns in a game	0
-ACH_TOUCHDOWN5	Score 5 touchdowns in a game	0
+ACH_TOUCHDOWN1	Score 30 touchdowns in a game	0
+ACH_TOUCHDOWN1	Score 500 touchdowns in a game	0
 ACH_FIELDGOAL	Score a field goal	0
-ACH_FIELDGOAL25	Score a 25 yard field goal	0
-ACH_FIELDGOAL50	Score a 50 yard field goal	0
+ACH_FIELDGOAL1	Score a 250 yard field goal	0
+ACH_FIELDGOAL1	Score a 500 yard field goal	0
 ACH_POINTAFTER1	Score a 1 point conversion	0
 ACH_POINTAFTER2	Score a 2 point conversion	0
 ACH_WIN1	Win a game	0
-ACH_WIN5	Win 5 games	0
-ACH_WIN10	Win 10 games	0
-ACH_WIN25	Win 25 games	0
-ACH_WIN50	Win 50 games	0
-ACH_WIN100	Win 100 games	0
+ACH_WIN1	Win 50 games	0
+ACH_WIN1	Win 100 games	0
+ACH_WIN1	Win 250 games	0
+ACH_WIN1	Win 500 games	0
+ACH_WIN1	Win 1000 games	0
 ACH_SEASON1	Complete a full season	0
-ACH_SEASON5	Complete 5 full seasons	0
-ACH_SEASON10	Complete 10 full seasons	0
+ACH_SEASON1	Complete 50 full seasons	0
+ACH_SEASON1	Complete 100 full seasons	0
 ACH_DRAFT	Draft a player	0
 ACH_FREEAGENT	Sign a free agent	0
 ACH_TRADEIN	Trade a player in	0
@@ -28,13 +28,13 @@ ACH_WIN_PLAYOFF	Win a play-off game	0
 ACH_WIN_AFC	Win the AFC title	0
 ACH_WIN_NFC	Win the NFC title	0
 ACH_WIN_RETROBOWL1	Win the Retro Bowl	0
-ACH_WIN_RETROBOWL3	Win 3 Retro Bowl titles	0
-ACH_WIN_RETROBOWL5	Win 5 Retro Bowl titles	0
-ACH_WIN_RETROBOWL10	Win 10 Retro Bowl titles	0
-ACH_CAREER_TD50	Score 50 career touchdowns	0
-ACH_CAREER_TD100	Score 100 career touchdowns	0
-ACH_CAREER_TD250	Score 250 career touchdowns	0
-ACH_CAREER_TD500	Score 500 career touchdowns	0
+ACH_WIN_RETROBOWL1	Win 30 Retro Bowl titles	0
+ACH_WIN_RETROBOWL1	Win 50 Retro Bowl titles	0
+ACH_WIN_RETROBOWL1	Win 100 Retro Bowl titles	0
+ACH_CAREER_TD1	Score 5000 career touchdowns	0
+ACH_CAREER_TD1	Score 10000 career touchdowns	0
+ACH_CAREER_TD1	Score 25000 career touchdowns	0
+ACH_CAREER_TD1	Score 50000 career touchdowns	0
 ACH_UPGRADE_STADIUM	Upgrade your stadium facilities	0
 ACH_UPGRADE_TRAINING	Upgrade your training facilities	0
 ACH_UPGRADE_REHAB	Upgrade your rehab facilities	0
@@ -51,16 +51,16 @@ ACH_HIRE_OF	Hire an offensive coordinator	0
 ACH_HIRE_DF	Hire a defensive coordinator	0
 ACH_HIRE_OF5	Hire a 5 star OF coordinator	0
 ACH_HIRE_DF5	Hire a 5 star DF coordinator	0
-ACH_PASS10	Make a 10 yard passing play	0
-ACH_PASS25	Make a 25 yard passing play	0
-ACH_PASS50	Make a 50 yard passing play	0
-ACH_RUN5	Make a 5 yard running play	0
-ACH_RUN10	Make a 10 yard running play	0
-ACH_RUN15	Make a 15 yard running play	0
-ACH_GAME_PASS_200	Pass for 200 yards in a game	0
-ACH_GAME_PASS_300	Pass for 300 yards in a game	0
-ACH_GAME_PASS_400	Pass for 400 yards in a game	0
-ACH_GAME_RUSH_50	Rush for 50 yards in a game	0
-ACH_GAME_RUSH_100	Rush for 100 yards in a game	0
-ACH_GAME_RUSH_150	Rush for 150 yards in a game	0
+ACH_PASS1	Make a 1000 yard passing play	0
+ACH_PASS1	Make a 2500 yard passing play	0
+ACH_PASS1	Make a 5000 yard passing play	0
+ACH_RUN5	Make a 50000 yard running play	0
+ACH_RUN10	Make a 1000 yard running play	0
+ACH_RUN15	Make a 1500 yard running play	0
+ACH_GAME_PASS_2	Pass for 2000 yards in a game	0
+ACH_GAME_PASS_3	Pass for 3000 yards in a game	0
+ACH_GAME_PASS_4	Pass for 4000 yards in a game	0
+ACH_GAME_RUSH_5	Rush for 500 yards in a game	0
+ACH_GAME_RUSH_1	Rush for 1000 yards in a game	0
+ACH_GAME_RUSH_1	Rush for 1500 yards in a game	0
 ACH_TEAMS2	Take charge of a new team	0
