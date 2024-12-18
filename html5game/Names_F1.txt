@@ -2,6 +2,7 @@
 A.Q.
 A.T.
 Aaron
+Aidan
 Abdul
 Abdullah
 Abraham
@@ -746,7 +747,7 @@ Neiko
 Nelson
 Neville
 Nevin
-Nicholas
+Nicolas
 Nick
 Nickell
 Nico
